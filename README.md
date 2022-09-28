@@ -4,11 +4,8 @@
 
 <h3> 👨🏻‍💻 &nbsp; Me in brief </h3>
 
-- 🤔 &nbsp; Full stack developer who loves coding and problem solving.
-- 🎓 &nbsp; Computer Science Engineering Graduate from SRM Institute of Science and Technology.
-- 🌱 &nbsp; Application Developer Enthusiast looking to problem solve and 
 - 💼 &nbsp; Solution Delivery Associate - Cyber Security at Deloitte India
-- ✍️ &nbsp; Looking for challenging roles and learning opportunities
+- ✍️ &nbsp; Professional Software Engineer. Seeking to use proven skills in coding, debugging and leadership to meet business needs. Created proprietary Android/Java applications for personal and commercial use. Developed an autonomous Big Data management application that reduces manual effort by over 90%
 - ✉️ &nbsp; Reach out to me at rahulanand2206@gmail.com!
 
 <h3> 🛠 &nbsp;My Tech Stack</h3>
