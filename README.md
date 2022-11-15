@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp; Me in brief </h3>
 
-- ✍️ &nbsp; Professional Software Engineer. Seeking to use proven skills in coding, debugging and leadership to meet business needs. Created proprietary Android/Java applications for personal and commercial use. Developed an autonomous Big Data management application that reduces manual effort by over 90%
+- ✍️ &nbsp; Professional Software Engineer with 2+ years experience in designing, developing and deploying production grade Java and Python applications. Seeking to use proven skills in Java, Python, Android Application Development and Technical Leadership to meet business needs. I strive to make business processes easier.
 - 💼 &nbsp; Associate Software Engineer @Deloitte <img src="https://c.tenor.com/YEFYngr6qwUAAAAi/deloitte-logo.gif" width="20">
 - ✉️ &nbsp; Reach out to me at rahulanand2206@gmail.com!
 
