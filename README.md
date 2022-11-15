@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp; Me in brief </h3>
 
 - ✍️ &nbsp; Professional Software Engineer. Seeking to use proven skills in coding, debugging and leadership to meet business needs. Created proprietary Android/Java applications for personal and commercial use. Developed an autonomous Big Data management application that reduces manual effort by over 90%
-- 💼 &nbsp; Solution Delivery Associate - Cyber Security @Deloitte <img src="https://c.tenor.com/YEFYngr6qwUAAAAi/deloitte-logo.gif" width="20">
+- 💼 &nbsp; Associate Software Engineer @Deloitte <img src="https://c.tenor.com/YEFYngr6qwUAAAAi/deloitte-logo.gif" width="20">
 - ✉️ &nbsp; Reach out to me at rahulanand2206@gmail.com!
 
 <h3> 🛠 &nbsp;My Tech Stack</h3>
