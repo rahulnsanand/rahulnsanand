@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp; Me in brief </h3>
 
-- ✍️ &nbsp; Professional Full Stack Developer with 2+ years experience in designing, developing and deploying production grade .net, Hadoop, Spark, Scala and Hive applications. Seeking to use proven skills in Scala, Spark, SQL and Technical Leadership to meet business needs. Empowering decision making with data driven solutions.
+- ✍️ &nbsp; Professional Full Stack Developer with 4+ years experience in designing, developing and deploying production grade .net, Hadoop, Spark, Scala and Hive applications. Seeking to use proven skills in Scala, Spark, SQL and Technical Leadership to meet business needs. Empowering decision making with data driven solutions.
 - 💼 &nbsp; SDE 1 @Deloitte <img src="https://c.tenor.com/YEFYngr6qwUAAAAi/deloitte-logo.gif" width="20">
 - ✉️ &nbsp; Reach out to me at rahulanand2206@gmail.com!
 
