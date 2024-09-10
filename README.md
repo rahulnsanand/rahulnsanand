@@ -1,24 +1,5 @@
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-<style>
-    .custom-button {
-        color: white;
-        font-size: 20px;
-        padding: 5px 20px;
-        text-decoration: none;
-        display: inline-block; 
-        transition: background-color 0.3s ease, color 0.3s ease;
-        border: 1px solid white;
-        border-radius: 10px;
-    }
-    .custom-button:hover {
-        background-color: #008CBA;
-        color: white;
-    }
-    .custom-button i {
-        padding-left: 10px;
-    }
-</style>
 
 <a href="https://rahulanand.in" target="_blank"><img align='right' src="/assets/rahul_badge_v4.svg" width="200" style="padding-left:30px; padding-bottom:30px"></a> 
 
@@ -38,8 +19,8 @@ I develop full-stack web and mobile applications, architect scalable software so
 
 pick a time that works for you, and we'll dive into whatever sparks your interest over virtual coffee, for free. looking forward to it!
 
-<a class="custom-button" href="https://calendly.com/rahulnsanand/30min" alt="meet_link">
-    Schedule a Call <i class="fa-solid fa-calendar-plus"></i>
+<a class="custom-button" href="https://calendly.com/rahulnsanand/30min" alt="meet_link" style="color: white; font-size: 20px; padding: 5px 20px; text-decoration: none; display: inline-block;  transition: background-color 0.3s ease, color 0.3s ease; border: 1px solid white; border-radius: 10px;">
+    Schedule a Call <i class="fa-solid fa-calendar-plus" style="padding-left: 10px;"></i>
 </a>
 
 ## 📚 highlighted projects
