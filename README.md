@@ -16,7 +16,7 @@ I develop full-stack web and mobile applications, architect scalable software so
 
 pick a time that works for you, and we'll dive into whatever sparks your interest over virtual coffee, for free. looking forward to it!
 
-<a href="https://calendly.com/rahulnsanand/30min" target="_blank"><img width="300" alt="meet_link" src="assets/schedule_img.png" ></a>
+<a href="https://calendly.com/rahulnsanand/30min" target="_blank"><img width="200" alt="meet_link" src="assets/schedule_img.png" ></a>
 
 ## 📚 highlighted projects
 <div >
