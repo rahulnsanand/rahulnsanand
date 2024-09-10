@@ -1,22 +1,14 @@
 <h2> 
-  hello world, I'm Rahul!  
   <a href="https://rahulanand.in" target="_blank"><img align='right' src="/assets/rahul_badge_v4.svg" width="200" style="padding-left:30px; padding-bottom:30px"></a>  
 </h2>
 
 <h4>
-<em>
-  Software Engineer at <a href="https://www2.deloitte.com/in/en.html">Deloitte USI  </a> 
-  <img src="https://c.tenor.com/YEFYngr6qwUAAAAi/deloitte-logo.gif" width="15">
-</em>
+I develop full-stack web and mobile applications, architect scalable software solutions, and orchestrate complex infrastructure setups. With a strong focus on translating business needs into technical workflows, I lead teams to deliver impactful, high-quality software that drives business growth.
 </h4>
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rahulanand.in/)](https://rahulanand.in/) [![GitHub rahulnsanand](https://img.shields.io/github/followers/rahulnsanand?label=follow&style=social)](https://github.com/rahulnsanand) [![Linkedin: rahulnsanand](https://img.shields.io/badge/-rahulnsanand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/rahulnsanand/) [![Twitter: rahulnsanand](https://img.shields.io/twitter/follow/rahulnsanand?style=social)](https://twitter.com/rahulnsanand)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulnsanand.visitor-badge) ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
-
-<h6>
-I develop full-stack web and mobile applications, architect scalable software solutions, and orchestrate complex infrastructure setups. With a strong focus on translating business needs into technical workflows, I lead teams to deliver impactful, high-quality software that drives business growth.
-</h6>
 
 #### 🎡 what I've played with
 
