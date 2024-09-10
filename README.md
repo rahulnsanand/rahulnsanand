@@ -19,7 +19,7 @@ I develop full-stack web and mobile applications, architect scalable software so
 
 pick a time that works for you, and we'll dive into whatever sparks your interest over virtual coffee, for free. looking forward to it!
 
-<a class="custom-button" href="https://calendly.com/rahulnsanand/30min" alt="meet_link" style="color: white; font-size: 20px; padding: 5px 20px; text-decoration: none; display: inline-block;  transition: background-color 0.3s ease, color 0.3s ease; border: 1px solid white; border-radius: 10px;">
+<a class="custom-button" href="https://calendly.com/rahulnsanand/30min" alt="meet_link" style="color: white; font-size: 20px; padding: 5px 20px; text-decoration: none; display: inline-block;  border: 1px solid white; border-radius: 10px;">
     Schedule a Call <i class="fa-solid fa-calendar-plus" style="padding-left: 10px;"></i>
 </a>
 
