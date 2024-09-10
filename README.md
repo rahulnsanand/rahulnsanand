@@ -19,17 +19,17 @@ pick a time that works for you, and we'll dive into whatever sparks your interes
 <a href="https://calendly.com/rahulnsanand/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png" ></a>
 
 ## 📚 highlighted projects
-<a href="https://github.com/rahulnsanand/note">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulnsanand&repo=note&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="note" style="padding:10px" />
+<a href="https://github.com/rahulnsanand/note" style="padding:10px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulnsanand&repo=note&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="note"/>
 </a>
-<a href="https://github.com/rahulnsanand/note-web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulnsanand&repo=note-web&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"  style="padding:10px" alt="note-web" />
+<a href="https://github.com/rahulnsanand/note-web" style="padding:10px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulnsanand&repo=note-web&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="note-web" />
 </a>
-<a href="https://github.com/rahulnsanand/TickTrack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulnsanand&repo=TickTrack&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"  style="padding:10px" alt="TickTrack" />
+<a href="https://github.com/rahulnsanand/TickTrack" style="padding:10px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulnsanand&repo=TickTrack&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TickTrack" />
 </a>
-<a href="https://github.com/rahulnsanand/Zomato-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulnsanand&repo=Zomato-Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e"  style="padding:10px" alt="Zomato-Project" />
+<a href="https://github.com/rahulnsanand/Zomato-Project" style="padding:10px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulnsanand&repo=Zomato-Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zomato-Project" />
 </a>
 
 ## 🎀 GitHub trophies
