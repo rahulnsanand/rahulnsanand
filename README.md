@@ -29,7 +29,7 @@ pick a time that works for you, and we'll dive into whatever sparks your interes
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulnsanand&repo=note-web&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="note-web" />
   </a>
 
-  <hr style="height:2px">
+  <hr style="height:1px">
 
   <a href="https://github.com/rahulnsanand/TickTrack" style="padding: 10px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulnsanand&repo=TickTrack&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TickTrack" />
