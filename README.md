@@ -1,4 +1,4 @@
-<a href="https://rahulanand.in" target="_blank"><img align='right' src="/assets/rahul_badge_v4.svg" width="200" style="padding-left:30px; padding-bottom:30px"></a> 
+<a href="https://rahulanand.in" target="_blank"><img align='right' src="/assets/rahul_badge_v4.gif" width="200" style="padding-left:30px; padding-bottom:30px"></a> 
 
 <h4>
 I develop full-stack web and mobile applications, architect scalable software solutions, and orchestrate complex infrastructure setups. With a strong focus on translating business needs into technical workflows, I lead teams to deliver impactful, high-quality software that drives business growth.
