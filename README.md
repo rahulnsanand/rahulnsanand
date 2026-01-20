@@ -14,8 +14,8 @@ I develop full-stack web and mobile applications, architect scalable software so
 
 ## 📚 check these out
 <div >
-  <a href="https://github.com/lyfie-app" style="padding: 10px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulnsanand&repo=TickTrack&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TickTrack" />
+  <a href="https://github.com/lyfie-app/lyfie" style="padding: 10px">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulnsanand&repo=lyfie-app/lyfie&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="lyfie" />
   </a>  
   <a href="https://github.com/rahulnsanand/TickTrack" style="padding: 10px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahulnsanand&repo=TickTrack&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TickTrack" />
