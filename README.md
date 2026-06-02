@@ -1,14 +1,15 @@
 ﻿<a href="https://www.rahulnsanand.com" target="_blank"><img align='right' src="/assets/rahulnsanand-logo.gif" width="200" style="padding-left:30px; padding-bottom:30px"></a> 
 
-<h4>
-I am just another engineer. I write code, value privacy, and build apps that respect it.
-</h4>
+<h5>just another engineer.</h5>
+<h6>I write code, value privacy, and build apps that respect it.</h6>
+</br>
+</br>
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.rahulnsanand.com/)](https://www.rahulnsanand.com/) [![GitHub rahulnsanand](https://img.shields.io/github/followers/rahulnsanand?label=follow&style=social)](https://github.com/rahulnsanand) [![Linkedin: rahulnsanand](https://img.shields.io/badge/-rahulnsanand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/rahulnsanand/) 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulnsanand.visitor-badge) ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
-**what I've played with**
+**played with**
 
 ![C Sharp](https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
