@@ -1,7 +1,7 @@
 ﻿<a href="https://www.rahulnsanand.com" target="_blank"><img align='right' src="/assets/rahulnsanand-logo.gif" width="200" style="padding-left:30px; padding-bottom:30px"></a> 
 
-<h5>just another engineer.</h5>
-<h6>I write code, value privacy, and build apps that respect it.</h6>
+<h4>just another engineer.</h4>
+<h5>I write code, value privacy, and build apps that respect it.</h5>
 </br>
 </br>
 
