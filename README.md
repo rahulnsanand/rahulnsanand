@@ -1,12 +1,10 @@
 ﻿<a href="https://www.rahulnsanand.com" target="_blank"><img align='right' src="/assets/rahulnsanand-logo.gif" width="200" style="padding-left:30px; padding-bottom:30px"></a> 
 
 <h4>just another engineer.</h4>
-<h5>I write code, value privacy, and build apps that respect it.</h5>
+<h5>I write code, value privacy, and build stuff that respect it.</h5>
 </br>
 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.rahulnsanand.com/)](https://www.rahulnsanand.com/) [![GitHub rahulnsanand](https://img.shields.io/github/followers/rahulnsanand?label=follow&style=social)](https://github.com/rahulnsanand) [![Linkedin: rahulnsanand](https://img.shields.io/badge/-rahulnsanand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/rahulnsanand/) 
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulnsanand.visitor-badge) ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.rahulnsanand.com/)](https://www.rahulnsanand.com/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulnsanand.visitor-badge) ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 **played with**
 
