@@ -4,7 +4,7 @@
 <h5>I write code, value privacy, and build stuff that respect it.</h5>
 </br>
 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.rahulnsanand.com/)](https://www.rahulnsanand.com/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulnsanand.visitor-badge) ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.rahulnsanand.com/)](https://www.rahulnsanand.com/) [![Discord](https://img.shields.io/badge/Discord-lyfie.org-5865F2.svg?&style=flat-square&logo=discord&logoColor=white)](https://discord.gg/KQNsjGAUUz) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulnsanand.visitor-badge) ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 **played with**
 
