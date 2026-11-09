@@ -1,0 +1,69 @@
+{
+  "user": {
+    "repos": 9,
+    "followers": 17,
+    "since": 2018
+  },
+  "stars": 149,
+  "langs": {
+    "C#": 2495564,
+    "TypeScript": 5622023,
+    "CSS": 808262,
+    "Dockerfile": 7558,
+    "JavaScript": 377074,
+    "HTML": 4742,
+    "PowerShell": 1081,
+    "Astro": 250950,
+    "Shell": 85209,
+    "MDX": 55528,
+    "Python": 3229,
+    "Java": 2007000,
+    "Kotlin": 12412,
+    "Scala": 48149
+  },
+  "npm": {
+    "@lyfie/luthor": 19778,
+    "@lyfie/luthor-headless": 19570
+  },
+  "docker": {
+    "total": 11674,
+    "images": {
+      "papyra": 9796,
+      "sweeprr": 1636,
+      "codeimage-unlmtd": 242
+    }
+  },
+  "releases": [
+    {
+      "repo": "lyfie-org/luthor",
+      "name": "luthor",
+      "date": "2026-11-06T06:14:40Z",
+      "version": "v2.11.15",
+      "pkgs": [
+        "luthor",
+        "headless"
+      ]
+    },
+    {
+      "repo": "lyfie-org/papyra",
+      "name": "papyra",
+      "date": "2026-10-29T13:42:23Z",
+      "version": "v1.1.1",
+      "pkgs": []
+    },
+    {
+      "repo": "lyfie-org/lyfie",
+      "name": "lyfie",
+      "date": "2026-01-17T14:13:03Z",
+      "version": "v1.0.5",
+      "pkgs": []
+    },
+    {
+      "repo": "rahulnsanand/TickTrack",
+      "name": "TickTrack",
+      "date": "2023-02-10T07:49:56Z",
+      "version": "v2.2.0.6",
+      "pkgs": []
+    }
+  ]
+}
