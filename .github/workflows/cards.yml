@@ -1,0 +1,64 @@
+name: cards
+
+# Rebuilds the profile cards and publishes them to the `output` branch.
+# main never receives bot commits, so local clones (and drip's fast-forward
+# pushes) never fall behind because of this workflow.
+
+on:
+  schedule:
+    - cron: "17 1 * * *" # daily, 06:47 IST
+  push:
+    branches: [main]
+    paths:
+      - profile.json
+      - scripts/**
+      - fonts/**
+      - assets/logo-glass.png
+      - .github/workflows/cards.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cards
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Build cards
+        run: node scripts/gen-cards.mjs "$RUNNER_TEMP/cards"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish to output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd "$RUNNER_TEMP"
+          git init -q out && cd out
+          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git fetch -q --depth=1 origin output; then
+            git checkout -q -b output FETCH_HEAD
+          else
+            git checkout -q --orphan output
+          fi
+          rm -rf cards
+          cp -r "$RUNNER_TEMP/cards" cards
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Cards unchanged."
+            exit 0
+          fi
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -q -m "cards: rebuild $(date -u +%F)"
+          git push -q origin output

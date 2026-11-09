@@ -1,0 +1,148 @@
+{
+  "login": "rahulnsanand",
+  "name": "Rahul NS Anand",
+  "kicker": "public void main() {",
+  "headline": "just another engineer",
+  "tagline": "I write code, value privacy, and build apps that respect it.",
+  "words": [
+    "explore",
+    "engineer",
+    "evolve"
+  ],
+  "chips": [
+    "SDE II · Deloitte USI",
+    "Creator & BDFL · lyfie.org",
+    "India · IST"
+  ],
+  "links": [
+    {
+      "id": "web",
+      "label": "rahulnsanand.com",
+      "href": "https://www.rahulnsanand.com"
+    },
+    {
+      "id": "linkedin",
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/rahulnsanand"
+    },
+    {
+      "id": "github",
+      "label": "lyfie-org on GitHub",
+      "href": "https://github.com/lyfie-org"
+    },
+    {
+      "id": "discord",
+      "label": "lyfie.org Discord",
+      "href": "https://discord.gg/KQNsjGAUUz"
+    },
+    {
+      "id": "medium",
+      "label": "Medium",
+      "href": "https://medium.com/@rahulnsanand"
+    },
+    {
+      "id": "devdotto",
+      "label": "Dev.to",
+      "href": "https://dev.to/rahulnsanand"
+    },
+    {
+      "id": "youtube",
+      "label": "YouTube",
+      "href": "https://www.youtube.com/@rahulnsanand"
+    }
+  ],
+  "now": [
+    {
+      "label": "by day",
+      "title": "SDE II · Deloitte USI",
+      "bullets": [
+        "Case-management platform (.NET + React) for AML and FINCrime investigation teams",
+        "Automated investigation workflows that speed up analyst triage",
+        "Banking clients across the US, UK, Australia and Spain"
+      ]
+    },
+    {
+      "label": "after hours",
+      "title": "Creator & BDFL · lyfie.org",
+      "bullets": [
+        "Open-source, self-hosted products that keep your data yours",
+        "Papyra, Luthor and TickTrack, from product idea to release",
+        "Product, design, docs and releases for every project"
+      ]
+    }
+  ],
+  "downloads": {
+    "npm": [
+      "@lyfie/luthor",
+      "@lyfie/luthor-headless"
+    ],
+    "dockerHub": "lyfie"
+  },
+  "stack": [
+    {
+      "label": "languages",
+      "items": [
+        "C#",
+        "TypeScript",
+        "Java",
+        "Kotlin",
+        "SQL"
+      ]
+    },
+    {
+      "label": "frameworks",
+      "items": [
+        ".NET",
+        "React",
+        "Jetpack Compose",
+        "Next.js",
+        "Astro"
+      ]
+    },
+    {
+      "label": "infra",
+      "items": [
+        "Docker",
+        "Debian",
+        "Nginx",
+        "Cloudflare",
+        "Azure"
+      ]
+    },
+    {
+      "label": "tooling",
+      "items": [
+        "Git",
+        "GitHub Actions",
+        "Playwright",
+        "Power BI",
+        "Android Studio"
+      ]
+    }
+  ],
+  "activity": {
+    "orgs": [
+      "lyfie-org",
+      "rahulnsanand"
+    ],
+    "limit": 6,
+    "blurbs": {
+      "lyfie-org/luthor": {
+        "name": "Luthor",
+        "blurb": "rich text editor for React"
+      },
+      "lyfie-org/papyra": {
+        "name": "Papyra",
+        "blurb": "self-hosted Markdown notes"
+      },
+      "lyfie-org/lyfie": {
+        "name": "Lyfie",
+        "blurb": "a selfie of your life"
+      },
+      "rahulnsanand/TickTrack": {
+        "name": "TickTrack",
+        "blurb": "counters, timers and stopwatches for Android"
+      }
+    }
+  }
+}
