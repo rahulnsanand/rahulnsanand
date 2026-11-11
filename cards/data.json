@@ -4,16 +4,16 @@
     "followers": 17,
     "since": 2018
   },
-  "stars": 151,
+  "stars": 154,
   "langs": {
     "C#": 2495564,
-    "TypeScript": 5622023,
+    "TypeScript": 5622021,
     "CSS": 808262,
     "Dockerfile": 7558,
     "JavaScript": 377074,
     "HTML": 4742,
     "PowerShell": 1081,
-    "Astro": 250950,
+    "Astro": 250948,
     "Shell": 85209,
     "MDX": 55528,
     "Python": 3229,
@@ -22,14 +22,14 @@
     "Scala": 48149
   },
   "npm": {
-    "@lyfie/luthor": 19797,
-    "@lyfie/luthor-headless": 19588
+    "@lyfie/luthor": 20101,
+    "@lyfie/luthor-headless": 19882
   },
   "docker": {
-    "total": 11752,
+    "total": 11837,
     "images": {
-      "papyra": 9874,
-      "sweeprr": 1636,
+      "papyra": 9956,
+      "sweeprr": 1639,
       "codeimage-unlmtd": 242
     }
   },
