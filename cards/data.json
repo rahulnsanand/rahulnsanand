@@ -4,7 +4,7 @@
     "followers": 17,
     "since": 2018
   },
-  "stars": 154,
+  "stars": 156,
   "langs": {
     "C#": 2495564,
     "TypeScript": 5622021,
@@ -22,13 +22,13 @@
     "Scala": 48149
   },
   "npm": {
-    "@lyfie/luthor": 20101,
-    "@lyfie/luthor-headless": 19882
+    "@lyfie/luthor": 20139,
+    "@lyfie/luthor-headless": 19920
   },
   "docker": {
-    "total": 11837,
+    "total": 11939,
     "images": {
-      "papyra": 9956,
+      "papyra": 10058,
       "sweeprr": 1639,
       "codeimage-unlmtd": 242
     }
