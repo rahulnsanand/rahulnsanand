@@ -4,36 +4,43 @@
     "followers": 17,
     "since": 2018
   },
-  "stars": 156,
+  "stars": 158,
   "langs": {
-    "C#": 2495564,
-    "TypeScript": 5622021,
-    "CSS": 808262,
-    "Dockerfile": 7558,
-    "JavaScript": 377074,
+    "C#": 2892711,
+    "TypeScript": 5902212,
+    "CSS": 821870,
+    "Dockerfile": 9872,
+    "JavaScript": 359175,
     "HTML": 4742,
     "PowerShell": 1081,
-    "Astro": 250948,
-    "Shell": 85209,
-    "MDX": 55528,
+    "Astro": 253796,
+    "Shell": 89200,
+    "MDX": 69712,
     "Python": 3229,
     "Java": 2007000,
     "Kotlin": 12412,
     "Scala": 48149
   },
   "npm": {
-    "@lyfie/luthor": 20139,
-    "@lyfie/luthor-headless": 19920
+    "@lyfie/luthor": 20174,
+    "@lyfie/luthor-headless": 19954
   },
   "docker": {
-    "total": 11939,
+    "total": 12211,
     "images": {
-      "papyra": 10058,
+      "papyra": 10330,
       "sweeprr": 1639,
       "codeimage-unlmtd": 242
     }
   },
   "releases": [
+    {
+      "repo": "lyfie-org/papyra",
+      "name": "papyra",
+      "date": "2026-11-12T12:24:54Z",
+      "version": "v1.2.0",
+      "pkgs": []
+    },
     {
       "repo": "lyfie-org/luthor",
       "name": "luthor",
@@ -43,13 +50,6 @@
         "luthor",
         "headless"
       ]
-    },
-    {
-      "repo": "lyfie-org/papyra",
-      "name": "papyra",
-      "date": "2026-10-29T13:42:23Z",
-      "version": "v1.1.1",
-      "pkgs": []
     },
     {
       "repo": "lyfie-org/lyfie",
