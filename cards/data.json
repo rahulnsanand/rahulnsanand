@@ -22,15 +22,15 @@
     "Scala": 48149
   },
   "npm": {
-    "@lyfie/luthor": 21130,
-    "@lyfie/luthor-headless": 20876
+    "@lyfie/luthor": 21308,
+    "@lyfie/luthor-headless": 21053
   },
   "docker": {
-    "total": 13550,
+    "total": 13769,
     "images": {
-      "papyra": 11442,
-      "sweeprr": 1828,
-      "codeimage-unlmtd": 280
+      "papyra": 11577,
+      "sweeprr": 1888,
+      "codeimage-unlmtd": 304
     }
   },
   "releases": [
